@@ -1,0 +1,12 @@
+import requests
+import webbrowser
+from bs4 import BeautifulSoup
+import httplib2
+import httpbin
+import requests
+import httplib2
+import urllib
+import pandas as pd
+import numpy as np
+import webbrowser
+from pprint import pprint
